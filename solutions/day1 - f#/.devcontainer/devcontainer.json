@@ -1,0 +1,24 @@
+{
+   "name": "F# Dev Environment",
+   "build": {
+      "dockerfile": "../Dockerfile",
+      "context": ".."
+   },
+   "remoteUser": "vscode",
+   "workspaceFolder": "/app",
+   "customizations": {
+      "vscode": {
+          "extensions": [
+              "Ionide.ionide-fsharp",
+              "ms-dotnettools.csharp"
+          ]
+      }
+   },
+   "mounts": [
+      "source=${localWorkspaceFolder},target=/app,type=bind,consistency=cached"
+   ],
+   "containerUser": "vscode",
+   "remoteEnv": {
+      "DOTNET_CLI_HOME": "/app"
+   }
+  }
