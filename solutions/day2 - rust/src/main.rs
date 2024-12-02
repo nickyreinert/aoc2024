@@ -31,8 +31,8 @@ fn main() -> io::Result<()> {
 
         println!("Parsed differences: {:?}", differences);
 
-        if differences.iter().all(|&difference| difference > 0) ||
-            differences.iter().all(|&difference| difference < 0) ||
+        if (differences.iter().all(|&difference| difference > 0) ||
+            differences.iter().all(|&difference| difference < 0)) &&
             differences.iter().all(|&difference| difference.abs() >= 1 && difference.abs() <= 3) {
 
             println!("Valid!");
@@ -45,5 +45,5 @@ fn main() -> io::Result<()> {
 
     println!("Total valid lines: {}", valid_count);  // Print it
     Ok(())
-    
+
 }
