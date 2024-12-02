@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  fsharp-dev:
+    build: .
+    volumes:
+      - .:/app
+      - ~/.nuget:/home/devuser/.nuget
+    working_dir: /app
+    stdin_open: true
+    tty: true
