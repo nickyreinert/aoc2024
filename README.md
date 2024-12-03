@@ -1,6 +1,6 @@
 # Advent Of Code 2024 
 
-This year, I am trying something new because the focus of this game is more on finding the algorithm rather than working on syntax. My goal is to try out a new language every day. I plan to run each language in separate Docker containers to avoid bloating my system, and I will highlight interesting facts about each language — you can find my findings [on my personal blog](https://nickyreinert.de/categories/aoc2024). Let's see how far I get. In three days, I’ll probably fall into another rabbit hole — fingers crossed.
+This year, I set forth upon a novel endeavour. Forsooth, as the essence of this quest lies not in the mastery of syntax, but in the discovery of the noble algorithm, my humble aim is to test mine hand at a new tongue each passing day. To prevent mine own system from becoming a tangled web of tools and clutter, I shall set each language within its own vessel, that it may not corrupt the sanctity of my work. As I tread this path, I shall make note of curious traits and peculiarities in each language — thou mayst read mine observations [upon my personal scroll](https://nickyreinert.de/categories/aoc2024). Let us see how far I can wander. In but three days' time, I may find myself lost in yet another labyrinth of thought — and perchance, 'tis just as well!
 
 1. F#: Differences and Products ([task](https://adventofcode.com/2024/day/1) | [solution](https://github.com/nickyreinert/aoc2024/tree/main/solutions/day1%20-%20f%23) | [text](http://nickyreinert.de/blog/2024/12/01/advent-of-code-day-1-differences-and-products/))
 
