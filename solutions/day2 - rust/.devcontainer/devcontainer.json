@@ -1,0 +1,19 @@
+{
+    "name": "Rust Development Container",
+    "build": {
+        "dockerfile": "../Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "rust-lang.rust-analyzer",
+                "serayuzgur.crates",
+                "tamasfe.even-better-toml"
+            ]
+        }
+    },
+    "remoteUser": "root",
+    "features": {
+        "ghcr.io/devcontainers/features/rust:1": {}
+    }
+}
