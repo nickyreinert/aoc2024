@@ -1,0 +1,8 @@
+# Cargo.toml
+[package]
+name = "rust-docker-project"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# Add your dependencies here
