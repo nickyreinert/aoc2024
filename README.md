@@ -10,5 +10,7 @@ This year, I set forth upon a novel endeavour. Forsooth, as the essence of this 
   
 4. **Excel**: Finding Patterns ([task](https://adventofcode.com/2024/day/4) | [solution](no source code) | [text](https://nickyreinert.de/blog/2024/12/04/advent-of-code-day-4-finding-patters-excel/))
 
-5. **Bash**: Fixing updates ([task](https://adventofcode.com/2024/day/5) | [solution]([no source code](https://github.com/nickyreinert/aoc2024/blob/main/solutions/day5%20-%20bash/solve.sh)) | [text](https://nickyreinert.de/blog/2024/12/05/advent-of-code-day-5-printer-updates-bash/))
+5. **Bash**: Fixing updates ([task](https://adventofcode.com/2024/day/5) | [solution](https://github.com/nickyreinert/aoc2024/blob/main/solutions/day5%20-%20bash/solve.sh) | [text](https://nickyreinert.de/blog/2024/12/05/advent-of-code-day-5-printer-updates-bash/))
+
+6. **Bash**: Fixing updates ([task](https://adventofcode.com/2024/day/6) | [solution](https://github.com/nickyreinert/aoc2024/tree/main/solutions/day6%20-%20javascript) | [text](https://nickyreinert.de/blog/2024/12/06/advent-of-code-day-6-walking-the-map-javascript/))
 
