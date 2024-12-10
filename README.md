@@ -14,3 +14,5 @@ This year, I set forth upon a novel endeavour. Forsooth, as the essence of this 
 
 6. **Bash**: Fixing updates ([task](https://adventofcode.com/2024/day/6) | [solution](https://github.com/nickyreinert/aoc2024/tree/main/solutions/day6%20-%20javascript) | [text](https://nickyreinert.de/blog/2024/12/06/advent-of-code-day-6-walking-the-map-javascript/))
 
+7. **C++**: Missing Operators ([task](https://adventofcode.com/2024/day/7) | [solution](https://github.com/nickyreinert/aoc2024/tree/main/solutions/day7%20-%20c%2B%2B) | [text](https://nickyreinert.de/blog/2024/12/07/advent-of-code-day-7-missing-operators-c-/))
+
