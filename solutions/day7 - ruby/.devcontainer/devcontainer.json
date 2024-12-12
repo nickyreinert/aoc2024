@@ -1,0 +1,21 @@
+{
+    "name": "Ruby Development",
+    "build": {
+      "args": {
+        "USER_GID": "1000",
+        "USER_UID": "1000",
+        "USERNAME": "vscode"
+        },     
+      "dockerfile": "Dockerfile"
+    },
+    "settings": {
+      "terminal.integrated.defaultProfile.linux": "bash"
+    },
+    "extensions": [
+      "rebornix.ruby",      // Ruby language support
+      "castwide.solargraph" // Ruby language server
+    ],
+    "postCreateCommand": "bundle install",
+    "remoteUser": "vscode"
+  }
+  
